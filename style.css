@@ -1,0 +1,85 @@
+.gb_Ue{
+    fill: white;
+    width: 25px;
+    padding: 5px;
+  }
+  
+  .gb_Ue:hover{
+    background-color: #5f6368;
+    border-radius: 50px;
+    padding: 5px;
+  }
+
+ header{
+     ;
+ }
+
+ .haut{
+     display: flex;
+     justify-content: flex-end;
+     list-style: none;
+     margin: 50px;
+}
+ 
+ .haut a{
+     text-decoration: none;
+     color: ivory;
+     margin: 22px;
+ }
+
+.conect{
+    background-color: purple;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+
+section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 210px;
+    list-style: none;
+}
+
+.google {
+    
+}
+
+.gLFyfgsfi {
+    margin: 50px;
+    
+}
+
+.boutons a{
+
+    background-color: grey;
+    padding: 5px;
+    text-decoration: none;
+    color: honeydew;
+    margin: 20px;
+}
+
+
+
+footer{
+    background-color: grey;
+    color: ivory;
+    
+}
+
+.fin {
+    display: flex;
+}
+
+.fingauche{
+    justify-content: flex-start;
+}
+
+.findroite{
+    justify-content: flex-end;
+}
+
+body{
+    background-color: black;
+}
